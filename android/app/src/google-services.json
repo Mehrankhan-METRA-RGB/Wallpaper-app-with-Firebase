@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "106768492978",
+    "firebase_url": "https://advance-media-player.firebaseio.com",
+    "project_id": "advance-media-player",
+    "storage_bucket": "advance-media-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106768492978:android:b4147386197d95cdce1cab",
+        "android_client_info": {
+          "package_name": "com.example.firestore_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106768492978-eeora0nruv7peclrret5df45u7s4s332.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JFPZ7y-ojiL9wo0t52Hvk72zOrC-p6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106768492978-eeora0nruv7peclrret5df45u7s4s332.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106768492978:android:1aff50a6a91f0ee4ce1cab",
+        "android_client_info": {
+          "package_name": "com.example.mehran_wallpaper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106768492978-eeora0nruv7peclrret5df45u7s4s332.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JFPZ7y-ojiL9wo0t52Hvk72zOrC-p6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106768492978-eeora0nruv7peclrret5df45u7s4s332.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106768492978:android:2e941efc96d4daface1cab",
+        "android_client_info": {
+          "package_name": "com.example.storage_tut_mehran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106768492978-eeora0nruv7peclrret5df45u7s4s332.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3JFPZ7y-ojiL9wo0t52Hvk72zOrC-p6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106768492978-eeora0nruv7peclrret5df45u7s4s332.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
