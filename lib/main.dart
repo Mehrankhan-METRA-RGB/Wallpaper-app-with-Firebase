@@ -8,6 +8,7 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_cache_manager/flutter_cache_manager.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:mehran_wallpaper_app/drawer.dart';
 
 import 'package:wallpaper_manager/wallpaper_manager.dart';
 
@@ -43,6 +44,7 @@ class _WallpaperSowState extends State<WallpaperSow> {
   DocumentSnapshot mm;
   DocumentSnapshot sub;
   bool _isLiked = false;
+  DrawerLeft drwr=new DrawerLeft();
   var HW;
   var catey = "GENERAL";
   // ignore: deprecated_member_use
@@ -390,12 +392,13 @@ Positioned(top: HW.height*0.030,
     return Builder(
       builder: (context) {
         return Scaffold(
+          drawer:drwr,
           appBar: AppBar(
             backgroundColor: black,
             elevation: 0,
             title:  Row(
               children: [
-                Icon(Icons.menu, color: Colors.white,),
+               // Icon(Icons.menu, color: Colors.white,),
                 Container(
                         padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
                         decoration: BoxDecoration(
